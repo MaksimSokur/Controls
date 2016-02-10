@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Controls</string>
+    <string name="chicken_CB">Chicken</string>
+    <string name="fish_CB">Fish</string>
+    <string name="steak_CB">Steak</string>
+    <string name="basicButton">BasicButton</string>
+    <string name="imageButton">Image Button</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="submit_btn">Submit Selections</string>
+    <string name="outside_rbtn">Outside</string>
+    <string name="chicken_RBtn">Chicken</string>
+    <string name="fish">Fish</string>
+    <string name="steak">Steak</string>
+    <string name="myfavorite">My Favorite</string>
+    <string name="username">Username</string>
+    <string name="pass">Password:</string>
+    <string name="pass_crit">Password Criteria...</string>
+    <string name="at">Use at your own risk...</string>
+    <string name="spinnerpromt">Spinner</string>
+    <string name="styledText"><i>Static</i> style in a <b>TextView</b>. Here\'s <strike>strike-through</strike>
+        and here\'s <sub>subscript</sub>, four squared: 4<sup>2</sup>. How about <big>BIG</big>, <small>small</small>
+        and <tt>monospace</tt>? And finally, what about <small><sub>small subscripts</sub></small>?</string>
+    <string name="italic"><i>Italics</i></string>
+    <string name="et">Iam a Edit Text</string>
+    <string name="tv">I am a text view</string>
+    <string name="actv">Autocomplete</string>
+    <string name="mactv">Multi Autocomplete</string>
+</resources>
